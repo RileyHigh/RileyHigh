@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RileyHigh
-- 👀 I’m interested in Machine Learning & AI
+- 👀 I’m interested in Machine Learning, AI & Robotics
 - 🌱 I’m currently learning Python, R & Matlab
 - 💞️ I’m looking to collaborate on Smart IoT projects, AI applications & Robotics
 - 📫 How to reach me ...
